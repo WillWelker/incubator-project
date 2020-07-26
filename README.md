@@ -1,6 +1,6 @@
 # Egg Incubator Project
 
-![alt text](https://raw.githubusercontent.com/WillWelker/incubator-project/master/images/incubator.jpg "Chickens")
+![alt text](https://raw.githubusercontent.com/WillWelker/incubator-project/master/images/incubator.png "Chickens")
 
 A Raspberry Pi, Node Red chick incubator to hatch chicken eggs.
 
