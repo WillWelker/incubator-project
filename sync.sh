@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# this is just my git sync script
 
 # auto sync files to Github repo
 # To add, commit and push all changes, issue:~$ ./sync.sh commit message up to 9 words
